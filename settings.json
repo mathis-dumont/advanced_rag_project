@@ -1,0 +1,14 @@
+{
+  "data_dir": "data/input",
+  "pdf_output_dir": "data/static",
+  "db_dir": "data/vector_store",
+  "nlp_model": "fr_core_news_md",
+  "tokenizer_encoding": "cl100k_base",
+  "embedding_model": "mistral-embed",
+  "chat_model": "mistral-medium-2505",
+  "chunk_max_tokens": 350,
+  "chunk_overlap": 40,
+  "k": 10,
+  "window": 1,
+  "process_images": false
+}
