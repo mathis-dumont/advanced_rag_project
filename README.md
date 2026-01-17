@@ -103,7 +103,7 @@ Follow these steps to set up the environment.
 1.  **Clone the repository**
     ```bash
     git clone <repository_url>
-    cd advanced_rag_project
+    cd advanced_rag
     ```
 
 2.  **Cadvanced_rag_projectent and activate it**
